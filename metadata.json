@@ -1,0 +1,8 @@
+{
+  "name": "LONG LONG LONG QUIZ",
+  "description": "3×3の正方形グリッド内で問題文が超低速にスライドするクイズアプリケーション",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
